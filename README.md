@@ -1,4 +1,4 @@
-# -IT326-DataMining-Project-
+# IT326-DataMining-Project: Predictive Modeling for Credit Risk Assessment
 
 ### Project Description
 
