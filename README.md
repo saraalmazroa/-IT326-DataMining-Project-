@@ -15,9 +15,5 @@ We chose the German Credit dataset because it represents a practical real-world 
 
 Team Members
 
-1.Elaf Aljarba - 445202315
-2.Dana Alturaifi - 445204187
-3.Allolo Aljunaydil - 446203056
-4.Sara almazroa - 446201941
-5.Ghala alharbi - 446202100
-6.Hessa almalik - 446202493
+1.Elaf Aljarba - 445202315 / 2.Dana Alturaifi - 445204187 / 3.Allolo Aljunaydil - 446203056 / 4.Sara almazroa - 446201941 / 
+5.Ghala alharbi - 446202100 / 6.Hessa almalik - 446202493
